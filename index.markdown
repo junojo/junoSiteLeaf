@@ -7,7 +7,7 @@ Field name:
 
 Menu
 <ul>
-<li>1 item</li>
+   <li><a href="portfolio.html">1 item</a></li>
 </ul>
 
 This is the homepage
